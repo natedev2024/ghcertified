@@ -5,7 +5,7 @@
   </a>
 </p>
 
-## Welcome
+## Welcome To this page
 
 This project helps people on their journey to pass GitHub Certifications by providing study resources and mock practice exams.
 
